@@ -1,6 +1,6 @@
 ### Hello There,<img src="https://github.com/svr666/svr666/blob/master/gifs/Hi.gif" width="30px">This is Rincemon Reji<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/RincemonReji) [![telegram badge](https://img.shields.io/badge/Rince-30302f?style=flat&logo=telegram)](https://t.me/filmsandtrends_Owner) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/rincemon)  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RincemonReji/) [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-films_and_trends-RED.svg)](https://telegram.dog/films_and_trends)
+[![Generic badge](https://img.shields.io/badge/REACHME-@-<COLOR>.svg)](https://github.com/RincemonReji) [![telegram badge](https://img.shields.io/badge/Rince-30302f?style=flat&logo=telegram)](https://telegram.dog/filmsandtrends_Owner) [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://visi.tk/rincemon)  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/RincemonReji/) [![Generic badge](https://img.shields.io/badge/AnyㅤDσυႦƚʂ..ㅤping@-films_and_trends-RED.svg)](https://telegram.dog/films_and_trends)
 
 - 🔭 I’m currently working on Mirroring-projects
 - 🌱 I’m currently learning Python+Bash
