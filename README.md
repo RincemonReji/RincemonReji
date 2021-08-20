@@ -14,6 +14,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RincemonReji&hide=prs&count_private=true&show_icons=true&theme=blueberry">
 📫 How to reach me
+
 <a href="https://telegram.dog/filmsandtrends_Owner"><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white"></a><a href="https://www.instagram.com"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><a href="https://github.com/RincemonReji"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a><a href="https://gitlab.com/RincemonReji"><img src="https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"><a href="mailto:filmsandtrends@gmail.com"><img alt="Gmail Badge" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:filmsandtrends@gmail.com"/></a>
 
 ### 🙄😎Eat🥣, Travel🚄, Soccer⚽, Movies🎬, Fork🍴 - Repeat 😁😁
